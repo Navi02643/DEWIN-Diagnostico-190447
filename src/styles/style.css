@@ -1,0 +1,29 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+footer {
+  position: absolute;
+  width: 100%;
+}
+
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-img{
+    position: absolute;
+    bottom: 0;
+    opacity: 75%;
+}
+
+.texto-blanco{
+    color: white;
+}
